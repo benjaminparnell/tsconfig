@@ -1,0 +1,14 @@
+{
+  "name": "@benparnell/tsconfig",
+  "version": "0.1.0",
+  "description": "My typescript config",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/benjaminparnell/tsconfig.git"
+  },
+  "author": "Ben Parnell <benjaminparnell.94@gmail.com>",
+  "license": "MIT"
+}
